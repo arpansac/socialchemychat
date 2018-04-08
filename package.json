@@ -1,0 +1,14 @@
+{
+  "name": "socialchemychat",
+  "version": "1.0.0",
+  "description": "basic chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arpansac",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
